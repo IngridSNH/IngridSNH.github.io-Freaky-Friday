@@ -1,0 +1,73 @@
+* {
+    font-family: 'Noto Sans JP', sans-serif;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #E9F6FF;
+    text-align: center;
+    padding-bottom: 50px;
+    margin: 0;
+  }
+  
+  h1 {
+    font-size: 50px;
+    padding-top: 60px;
+    padding-bottom: 0px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+  }
+
+  h2 {
+    font-size: 18px;
+    padding-bottom: 30px;
+    padding-top: 20px;
+  }
+  
+  li {
+    list-style: none;
+  }
+
+  .index-box {
+    width: 600px;
+    box-sizing: border-box;
+    display: inline-block;
+    padding: 10px 10px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    background-color: #FFE9EF
+  }
+  
+  .week {
+    text-align: center;
+    line-height: 50px;
+  }
+  
+  .recipe {
+    float: left;
+    text-align: center;
+    margin: 10px 25px;
+  }
+  
+  img {
+    width: 300px;
+    height: 250px;
+    float: right;
+  }
+
+  h3 {
+    text-transform: uppercase;
+    padding-bottom: 10px
+  }
+
+  h4 {
+    padding-top: 40px;
+
+  }
+
+  p {
+    padding-top: 30px;
+
+  }
